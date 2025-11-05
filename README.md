@@ -10,6 +10,7 @@ First, create a `data/` folder inside the project path:
 mkdir data
 ```
 The data structure should be organized as follows:
+```bash
 data/
 ├── dataset_name
 │   ├── scene1/
@@ -23,5 +24,5 @@ data/
 │   │   │   ├── IMG_0_color.jpg
 │   │   ├── segment_pred/
 │   │   │   ├── IMG_0_color.jpg
-
+```
 Our dataset is available at: [Link to be added]
