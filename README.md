@@ -8,6 +8,7 @@ First, create a `data/` folder inside the project path:
 
 ```bash
 mkdir data
+```
 The data structure should be organized as follows:
 data/
 ├── dataset_name
