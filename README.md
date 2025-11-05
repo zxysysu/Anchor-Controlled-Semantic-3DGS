@@ -1,6 +1,6 @@
 # Anchor Controlled Semantic 3DGS
 
-**Authors**: Zhu XiangYu¹,², Li ChengWei¹,², Zhou JiaQi¹,², Wang Yong¹,²
+**Authors**: Zhu XiangYu, Li ChengWei, Zhou JiaQi, Wang Yong
 
 ## Data Preparation
 
