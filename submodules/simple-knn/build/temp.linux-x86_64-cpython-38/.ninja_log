@@ -1,0 +1,4 @@
+# ninja log v5
+1	4855	1748170821	/home/hdd/zxy/Scaffold-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	5be2ec988699fc5e
+0	8929	1748170825	/home/hdd/zxy/Scaffold-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	6f3c4cb51e656236
+1	24433	1748170841	/home/hdd/zxy/Scaffold-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	b43bbd534060bb6e
