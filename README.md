@@ -25,4 +25,4 @@ data/
 │   │   ├── segment_pred/
 │   │   │   ├── IMG_0_color.jpg
 ```
-Our dataset is available at: [Link to be added]
+Our dataset is available at:链接: https://pan.baidu.com/s/1KTB0q2WPWTlV0QHmH6KFdQ?pwd=fsua 提取码: fsua 
